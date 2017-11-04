@@ -1,0 +1,23 @@
+{
+  "main": "app-dev.chuksy",
+  "name": ">MaTt",
+  "description": "Towards Total Graduate Registration App",
+  "version": "1.0",
+  "keywords": ["TTG"],
+  "window": {
+    "title": "TTG-REG | Towards Total Graduate Registration",
+    "icon": "assets/images/icon.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 1300,
+   "height": 640,
+    "position": "center",
+    "min_width": 1000,
+    "min_height": 640,
+    "max_width": 0,
+    "max_height": 0
+  },
+  "webkit": {
+    "plugin": true
+  }
+}

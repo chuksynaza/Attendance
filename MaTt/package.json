@@ -1,0 +1,23 @@
+{
+  "main": "app-dev.chuksy",
+  "name": "MaTt",
+  "description": "Attendance Application",
+  "version": "1.0",
+  "keywords": ["Attendance", "MaTt"],
+  "window": {
+    "title": "MaTt | Attendance Tracking App",
+    "icon": "assets/images/icon.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 1300,
+   "height": 600,
+    "position": "center",
+    "min_width": 1000,
+    "min_height": 600,
+    "max_width": 0,
+    "max_height": 0
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
